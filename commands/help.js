@@ -35,9 +35,9 @@ async function helpCommand(sock, chatId, message) {
 
 🥷🇬🇳 *𝗜𝗕𝗥𝗔𝗛𝗜𝗠𝗔 𝗦𝗢𝗥𝗬 𝗦𝗔𝗖𝗞𝗢* 🇬🇳🥷
 
-        *LISTE DES COMMANDES :*
+     *LISTE DES COMMANDES :*
 
-              *𝗜𝗧𝗔𝗖𝗛𝗜-𝗫𝗠𝗗*
+          *𝗜𝗧𝗔𝗖𝗛𝗜-𝗫𝗠𝗗*
 
 🥷────────────────🥷
 『 𝗚𝗘𝗡𝗘𝗥𝗔𝗟-𝗜𝗧𝗔𝗖𝗛𝗜-𝗫𝗠𝗗 』
@@ -200,8 +200,8 @@ async function helpCommand(sock, chatId, message) {
 ╰────────────────🥷
 
 🥷───────────────🥷
-    ⚡ *𝗜𝗧𝗔𝗖𝗛𝗜-𝗫𝗠𝗗 v2.0* ⚡
-   propulsé par *𝗜𝗕𝗦𝗔𝗖𝗞𝗢™*
+   ⚡ *𝗜𝗧𝗔𝗖𝗛𝗜-𝗫𝗠𝗗 v2.0* ⚡
+  propulsé par *𝗜𝗕𝗦𝗔𝗖𝗞𝗢™*
 🥷───────────────🥷
 
 *Rejoignez notre chaîne🔗👇:*`;

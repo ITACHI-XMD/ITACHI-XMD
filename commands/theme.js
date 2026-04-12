@@ -10,14 +10,14 @@ const channelInfo = {
 };
 
 const themes = [
-    { num: 1, url: 'https://i.ibb.co/d4Nx7QQF/IMG-20260408-WA0358.jpg',   label: '🌑 Thème 1' },
-    { num: 2, url: 'https://i.ibb.co/m5XQR7ss/IMG-20260408-WA0353.jpg',   label: '🔵 Thème 2' },
-    { num: 3, url: 'https://i.ibb.co/hx46KTS8/IMG-20260408-WA0350.jpg',   label: '🟣 Thème 3' },
-    { num: 4, url: 'https://i.ibb.co/zHtxkpj3/IMG-20260408-WA0356.jpg',   label: '🔴 Thème 4' },
-    { num: 5, url: 'https://i.ibb.co/3y2rrKtC/IMG-20260408-WA0351.jpg',   label: '🟠 Thème 5' },
-    { num: 6, url: 'https://i.ibb.co/DP0W7h4h/IMG-20260408-WA0352.jpg',   label: '🟢 Thème 6' },
+    { num: 1, url: 'https://i.ibb.co/d4Nx7QQF/IMG-20260408-WA0358.jpg',   label: '👽 Thème 1' },
+    { num: 2, url: 'https://i.ibb.co/m5XQR7ss/IMG-20260408-WA0353.jpg',   label: '🚀 Thème 2' },
+    { num: 3, url: 'https://i.ibb.co/hx46KTS8/IMG-20260408-WA0350.jpg',   label: '💀 Thème 3' },
+    { num: 4, url: 'https://i.ibb.co/zHtxkpj3/IMG-20260408-WA0356.jpg',   label: '👻 Thème 4' },
+    { num: 5, url: 'https://i.ibb.co/3y2rrKtC/IMG-20260408-WA0351.jpg',   label: '🤖 Thème 5' },
+    { num: 6, url: 'https://i.ibb.co/DP0W7h4h/IMG-20260408-WA0352.jpg',   label: '👾 Thème 6' },
     { num: 7, url: 'https://i.ibb.co/6RFrsGWX/IMG-20260408-WA0355-1.jpg', label: '🌌 Thème 7' },
-    { num: 8, url: 'https://i.ibb.co/ds0fdYCX/IMG-20260409-WA0249.jpg',   label: '⚡ Thème 8' },
+    { num: 8, url: 'https://i.ibb.co/ds0fdYCX/IMG-20260409-WA0249.jpg',   label: '🥷 Thème 8' },
 ];
 
 const menuImagePath = path.join(__dirname, '../data/menuimage.json');

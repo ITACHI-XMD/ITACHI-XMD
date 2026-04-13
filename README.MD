@@ -80,26 +80,6 @@
 
 <div align="center">
 
-## 📦 DÉPENDANCES
-
-</div>
-
-<div align="center">
-
-| Package | Rôle |
-|:--|:--|
-| `@whiskeysockets/baileys` | Connexion WhatsApp Multi-Device |
-| `express` | Serveur web |
-| `cors` | Requêtes cross-origin |
-| `pino` | Logger léger |
-| `node-cache` | Cache des sessions |
-
-</div>
-
----
-
-<div align="center">
-
 ## 👤 CRÉATEUR
 
 <img src="https://i.ibb.co/sp7vYJt5/1772381137526.png" width="100"/>

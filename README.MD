@@ -38,27 +38,7 @@
 
 ---
 
-<div align="center">
 
-## 🚀 DÉPLOIEMENT SUR RAILWAY
-
-</div>
-
-> **Gratuit et rapide !**
-
-```bash
-# Étape 1 — Fork ou clone ce repo sur GitHub
-
-# Étape 2 — Va sur railway.app
-# Login with GitHub → New Project → Deploy from GitHub repo
-# Sélectionne ITACHI-XMD → Deploy ✅
-
-# Étape 3 — Génère ton domaine
-# Settings → Networking → Generate Domain
-# Ton bot est en ligne 🎉
-```
-
----
 
 <div align="center">
 

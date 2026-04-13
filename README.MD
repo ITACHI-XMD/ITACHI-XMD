@@ -62,11 +62,11 @@
 
 ## 👤 CRÉATEUR
 
-<img src="https://i.ibb.co/sp7vYJt5/1772381137526.png" width="100"/>
+<img src="https://i.ibb.co/sp7vYJt5/1772381137526.png" width="500"/>
 
 ### Ibrahima Sory Sacko 🇬🇳
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-white?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black)](https://wa.me/224621963059)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-white?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black)](https://wa.me/224666952949)
 [![GitHub](https://img.shields.io/badge/GitHub-centralhex0-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/centralhex0)
 
 <br/>
